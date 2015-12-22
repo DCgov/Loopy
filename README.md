@@ -9,6 +9,10 @@ Loopy is the PCS data processing system. It is capable of preprocessing the PCS 
   - [HTML.py] - Formatting html tables for email reports
   - [xlrd] - Parsing excel sheets
 
+### Configurations
+
+* Before running the scripts, make changes to the database connection file in ./Credentials 
+* Run Loopy.py directly 
 
 [Python 2.7]: <https://www.python.org/download/releases/2.7/>
 [HTML.py]: <http://www.decalage.info/python/html>
